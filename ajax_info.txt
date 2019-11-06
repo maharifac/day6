@@ -1,0 +1,2 @@
+<h1>ajax tutorial</h1>
+<p>this is to learn about the ajax functions</p>
